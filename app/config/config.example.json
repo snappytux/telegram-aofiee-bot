@@ -1,9 +1,7 @@
 {
     "Port": ":1234",
-    "FIREBASE_API_KEY": "",
-    "FIREBASE_AUTH_DOMAIN": "",
-    "FIREBASE_DATABASE_URL": "",
-    "FIREBASE_PROJECT_ID": "",
-    "FIREBASE_STORAGEBUCKET": "",
-    "FIREBASE_MESSAGINGSENDERID": "",
+    "DATABASE_ADDRESS": "",
+    "DATABASE_NAME": "",
+    "DATABASE_USER": "",
+    "DATABASE_PASSWORD": ""
 }
